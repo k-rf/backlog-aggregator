@@ -1,6 +1,6 @@
 {
-  "name": "template-web-app-frontend",
-  "remoteUser": "template-web-app-frontend",
+  "name": "backlog-aggregator-frontend",
+  "remoteUser": "backlog-aggregator-frontend",
   "dockerComposeFile": "../../docker-compose.dev.yaml",
   "service": "frontend",
   "postAttachCommand": "yarn install",
