@@ -12,6 +12,7 @@
     "vscode": {
       "extensions": [
         "albymor.increment-selection",
+        "astro-build.astro-vscode",
         "bodil.file-browser",
         "christian-kohler.path-intellisense",
         "dbaeumer.vscode-eslint",
@@ -37,8 +38,8 @@
         "shd101wyy.markdown-preview-enhanced",
         "streetsidesoftware.code-spell-checker",
         "taichi.vscode-textlint",
-        "yzhang.markdown-all-in-one",
-        "yoavbls.pretty-ts-errors"
+        "yoavbls.pretty-ts-errors",
+        "yzhang.markdown-all-in-one"
       ],
       "settings": {
         "editor.defaultFormatter": "esbenp.prettier-vscode",
